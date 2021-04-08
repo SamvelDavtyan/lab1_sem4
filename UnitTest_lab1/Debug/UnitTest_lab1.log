@@ -1,0 +1,20 @@
+﻿  UnitTest_lab1.cpp
+D:\Программирование\4 сем\lab1\Program1\List.inl(120,12): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\lab1\Program1\List.inl(119): message : во время компиляции функции-члена класс шаблон "data_T List<data_T>::at(const int)"
+          with
+          [
+              data_T=int
+          ]
+D:\Программирование\4 сем\lab1\UnitTest_lab1\UnitTest_lab1.cpp(29): message : выполняется компиляция ссылки на экземпляр шаблон функции "data_T List<data_T>::at(const int)"
+          with
+          [
+              data_T=int
+          ]
+D:\Программирование\4 сем\lab1\UnitTest_lab1\UnitTest_lab1.cpp(25): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<key_type>"
+          with
+          [
+              key_type=int
+          ]
+D:\Программирование\4 сем\lab1\Program1\List.inl(131): warning C4715: List<int>::at: значение возвращается не при всех путях выполнения
+D:\Программирование\4 сем\lab1\Program1\List.inl(131): warning C4715: List<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::at: значение возвращается не при всех путях выполнения
+  UnitTest_lab1.vcxproj -> D:\Программирование\4 сем\lab1\program1\Debug\UnitTest_lab1.dll

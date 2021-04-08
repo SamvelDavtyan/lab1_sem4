@@ -1,0 +1,2 @@
+D:\Программирование\4 сем\lab1\program1\Debug\program1.exe
+D:\Программирование\4 сем\lab1\program1\Debug\program1.pdb
